@@ -1,0 +1,7 @@
+CSS is important part of creating a website, it  makes it so that the website itself is appealing via web layout, style, design and etc.
+
+It also enhances the appearance of your website, allowing your web pages to be visually appealing to clients, and users.
+
+With CSS you can make the navigation easier for users, especially with Responsive design making it accessible to not only desktop, but tablets and mobile users as well.
+
+ CSS can also create animations and transitions in your website, making it more appealing to users and clients.
