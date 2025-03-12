@@ -1,7 +1,13 @@
+1. Now, Can you share with us from your point of view why to use CSS?
+
 CSS is important part of creating a website, it  makes it so that the website itself is appealing via web layout, style, design and etc.
 
 It also enhances the appearance of your website, allowing your web pages to be visually appealing to clients, and users.
 
 With CSS you can make the navigation easier for users, especially with Responsive design making it accessible to not only desktop, but tablets and mobile users as well.
 
- CSS can also create animations and transitions in your website, making it more appealing to users and clients.
+CSS can also create animations and transitions in your website, making it more appealing to users and clients.
+
+ 2. Now, Which one of the mentioned examples would you like to design?
+
+ For me personally, I would like to design a website just like BucketListly. I want to design a website where individuals can help each other out especially if the person is feeling a bit down on themselves. They can either post it anonymously or publicly. I'll also make sure that all messages sent through the website will be monitored, making sure that no hurtful or hateful comments can get through to the users.
